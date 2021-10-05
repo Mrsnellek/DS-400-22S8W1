@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(t_chance, 4) == .0806
+          >>> round(t_chance, 4) == .0781
           True
           """,
           'hidden': False,
